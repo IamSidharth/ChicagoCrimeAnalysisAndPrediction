@@ -1,4 +1,4 @@
-# ChicagoCrimeAnaysisAndPrediction
+# ChicagoCrimeAnalysisAndPrediction
 
 Data set is taken from KaggleList.
 
